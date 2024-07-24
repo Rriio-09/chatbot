@@ -1,26 +1,7 @@
 Chatbot Project
 This project implements a simple chatbot using Python and a standalone frontend.
 
-Project Structure
-chatbot_project/
-│
-├── chatbot/
-│   ├── app.py
-│   ├── chat.py
-│   ├── data.pth
-│   ├── intents.json
-│   ├── model.py
-│   ├── nltk_utils.py
-│   ├── train.py
-│   ├── .vscode/settings.json
-│   ├── __pycache__/
-│   ├── report/
-│   └── standalone-frontend/
-│
-├── static/
-│   ├── app.js
-│   ├── style.css
-│   └── images/chatbox-icon.svg
+
 Files and Directories
 app.py: Main application script.
 chat.py: Contains the chatbot logic.
